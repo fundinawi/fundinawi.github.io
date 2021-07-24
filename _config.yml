@@ -1,0 +1,22 @@
+theme: minima
+title: Fundinawi - Fundiertes nachhaltiges Wissen
+author: Fundinawi
+email: fundinawi@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+ Hier dreht sich alles um fundiertes nachhaltiges Wissen.
+ Es wird dabei auf möglichst viele Aspekte eingegangen.
+ Thesen werden soweit möglich mit Quellen belegt.
+ Der Themenschwerpunkt liegt sowohl auf Produkttests (Reviews) als auch auf Tipps für mehr Nachhaltigkeit.
+ 
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5" 
+search: true
+search_full_content: true
+
+
+
+baseurl: /
+# social links
+
+#github_username:  fundinawi # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
