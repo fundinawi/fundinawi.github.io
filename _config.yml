@@ -2,7 +2,7 @@ theme: minima
 title: Fundinawi - Fundiertes nachhaltiges Wissen
 lang: de
 author: Fundinawi
-url: https://fundinawi.github.io
+#url: https://fundinawi.github.io
 email: fundinawi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  Hier dreht sich alles um fundiertes nachhaltiges Wissen.
