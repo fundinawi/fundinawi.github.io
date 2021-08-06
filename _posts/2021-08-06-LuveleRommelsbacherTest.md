@@ -37,7 +37,7 @@ Die Leistungsaufnahme in der Aufheizphase betrug 313-314 Watt, angegeben ist sie
 
 Bis das Heizelement warm wird ist die Leistungsaufnahme sogar deutlich größer und betrug knapp 600 Watt. Erklärung: Das Heizelement erwärmt sich, dadurch steigt der elektrische Widerstand und erst wenn die Betriebstemperatur erreicht ist, wird auch die angegebene Leistungsaufnahme eingehalten.
 
-<a href="./res/Joghurtbereiter/LuvelePurePlusInitialeLeistungsaufnahme.jpg"><img width="600" src="./res/Joghurtbereiter/LuvelePurePlusInitialeLeistungsaufnahme.jpg" alt="Leistungsaufnahme Luvele Pure Plus Joghurtbereiter zu Versuchsbeginn in Watt" title="Leistungsaufnahme Luvele Pure Plus Joghurtbereiter zu Versuchsbeginn in Watt" /></a>
+<a href="/res/Joghurtbereiter/LuvelePurePlusInitialeLeistungsaufnahme.jpg"><img width="600" src="/res/Joghurtbereiter/LuvelePurePlusInitialeLeistungsaufnahme.jpg" alt="Leistungsaufnahme Luvele Pure Plus Joghurtbereiter zu Versuchsbeginn in Watt" title="Leistungsaufnahme Luvele Pure Plus Joghurtbereiter zu Versuchsbeginn in Watt" /></a>
 
 ## Juvele 2 Liter Glas: Extrem dünn und unpraktisch
 Auch beim 2 Liter Glas wurde wenig mitgedacht. Es ist extrem dünn. Zwar handelt es sich um ein sog. Borsilikatglas (auch als Borosilikatglas bekannt), aber dessen Vorteile liegen vor allem darin bei großen Temperaturschwankungen nicht zu springen, siehe [Glas-Arten]( https://www.hirschmann-laborgeraete.de/de-DE/Wissen/Qualitaetsmanagement/Glas%20Arten.aspx)
@@ -51,7 +51,7 @@ Es wird auch nur ein Glas mitgeliefert. Neue Milch mit bereits hergestelltem Jog
 Das Glas hat so ziemlich 2 Liter und damit keine Reserve. In vielen Joghurtrezepten findet man, dass zu einem Liter Milch ca. 100 Gramm Joghurt als Starter gegeben werden sollen. Bei 2 Litern Milch und 200 Gramm Joghurt, ist man bei ca. 2,2 Litern. Das passt gerade so ins Glas. Drückt man dann aber den Deckel drauf, läuft einiges heraus und man hat eine ziemliche Sauerei. Was nützt dieses 2 Liter Glas, wenn man damit aus 2 Litern Milch keine 2 Liter Joghurt machen kann? Man muss immer etwas Milch wegschütten, welche Verschwendung. Aber Stromverschwenderisch ist er ja auch.
 Wenn etwas Milch ausläuft, sieht das Wasser bzw. der Joghurtbereiter dann so unappetitlich aus:
 
-<a href="./res/Joghurtbereiter/SauereiNachMilchüberlauf.jpg"><img width="600" src="./res/Joghurtbereiter/SauereiNachMilchüberlauf.jpg" alt="Juvele Pure Plus Joghurtbereiter unappetitlich" title="Juvele Pure Plus Joghurtbereiter unappetitlich" /></a>
+<a href="/res/Joghurtbereiter/SauereiNachMilchüberlauf.jpg"><img width="600" src="/res/Joghurtbereiter/SauereiNachMilchüberlauf.jpg" alt="Juvele Pure Plus Joghurtbereiter unappetitlich" title="Juvele Pure Plus Joghurtbereiter unappetitlich" /></a>
 
 
 ## Johgurtbereiter Rommelsbacher JG80 
@@ -70,7 +70,7 @@ Die Zeitschaltuhr nach welcher sich das Gerät abschaltet kann bei beiden Gerät
 
 Die Wärmeleistung beträgt ca. 20 Watt. Dies ist allerdings nur ein Hinweis darauf wie schnell das Gerät den Joghurt auf die gewünschte Temperatur bringt. Der Stromverbrauch um den Joghurt zuzubereiten hängt viel mehr von der Isolation des Gerätes ab.
 
-<a href="./res/Joghurtbereiter/RommelsbacherJG80InitialeLeistungsaufnahme.jpg"><img width="600" src="./res/Joghurtbereiter/RommelsbacherJG80InitialeLeistungsaufnahme.jpg" alt="Leistungsaufnahme Rommelsbacher JG80 Joghurtbereiter zu Versuchsbeginn in Watt" title="Leistungsaufnahme Rommelsbacher JG80 Joghurtbereiter zu Versuchsbeginn in Watt" /></a>
+<a href="/res/Joghurtbereiter/RommelsbacherJG80InitialeLeistungsaufnahme.jpg"><img width="600" src="/res/Joghurtbereiter/RommelsbacherJG80InitialeLeistungsaufnahme.jpg" alt="Leistungsaufnahme Rommelsbacher JG80 Joghurtbereiter zu Versuchsbeginn in Watt" title="Leistungsaufnahme Rommelsbacher JG80 Joghurtbereiter zu Versuchsbeginn in Watt" /></a>
 
 Auch der Rommelsbacher JG80 Joghurtbereiter nimmt zu Beginn, bis sich das Heizelement erwärmt hat, etwas mehr Leistung auf. Allerdings ist der Effekt deutlich geringer als beim Luvele Pure Plus.
 
@@ -88,7 +88,7 @@ Die Deckel des Juvele und des Rommelsbachers funktionieren nach demselben Prinzi
 
 Man kann beim Juvele auf einem Plastikring eine Zahl von 1 bis 31 einstellen. Das soll wohl als Erinnerung dienen, wann man den Joghurt gemacht hat. Da Joghurt im Kühlschrank allerdings sehr lange hält, ist das ehr überflüssig.
 
-<a href="./res/Joghurtbereiter/LuveleDeckel.jpg"><img width="600" src="./res/Joghurtbereiter/LuveleDeckel.jpg" alt="Luvele Joghurtglas Deckel" title="Luvele Joghurtglas Deckel" /></a>
+<a href="/res/Joghurtbereiter/LuveleDeckel.jpg"><img width="600" src="/res/Joghurtbereiter/LuveleDeckel.jpg" alt="Luvele Joghurtglas Deckel" title="Luvele Joghurtglas Deckel" /></a>
 
 ### Benutzungsfreundlichkeit Juvele Pure Plus und Rommelsbacher JG80
 Bei der Benutzerfreundlichkeit gewinnt eindeutig der Rommelsbacher JG80. Einen Liter Milch ins Glas füllen, sowie Starterjoghurt hinzufügen, den Joghurtbereiter einstellen und los geht es. Wenn der Joghurt fertig ist, einfach den Behälter entnehmen.
@@ -110,20 +110,20 @@ Bilder des Versuchsaufbaus:
 <a href="Bild: DS18B20ImLuvele.jpg"><img width="600" src="Bild: DS18B20ImLuvele.jpg" alt="DS18B20 Sensor im Luvele Pure Plus Joghurtbereite" title="DS18B20 Sensor im Luvele Pure Plus Joghurtbereite" /></a>
 
 
-<a href="./res/Joghurtbereiter/DS18B20ImRommelsbacher.jpg"><img width="600" src="./res/Joghurtbereiter/DS18B20ImRommelsbacher.jpg" alt="DS18B20 Sensor im Rommelsbacher JG 80 Joghurtbereiter" title="DS18B20 Sensor im Rommelsbacher JG 80 Joghurtbereiter" /></a>
+<a href="/res/Joghurtbereiter/DS18B20ImRommelsbacher.jpg"><img width="600" src="/res/Joghurtbereiter/DS18B20ImRommelsbacher.jpg" alt="DS18B20 Sensor im Rommelsbacher JG 80 Joghurtbereiter" title="DS18B20 Sensor im Rommelsbacher JG 80 Joghurtbereiter" /></a>
 
 
 Da die Deckel natürlich nicht mit dem Kabel schließen wurden die Behälter mit Frischhaltefolie verschlossen um eine ähnliche Wirkung wie bei aufgesetztem Deckel zu erhalten.
 
-<a href="./res/Joghurtbereiter/KabelDurchfuehrungRommelsbacherJG80.jpg"><img width="600" src="./res/Joghurtbereiter/KabelDurchfuehrungRommelsbacherJG80.jpg" alt="Kabeldurchführung im Rommelsbacher JG80" title="Kabeldurchführung im Rommelsbacher JG80" /></a>
+<a href="/res/Joghurtbereiter/KabelDurchfuehrungRommelsbacherJG80.jpg"><img width="600" src="/res/Joghurtbereiter/KabelDurchfuehrungRommelsbacherJG80.jpg" alt="Kabeldurchführung im Rommelsbacher JG80" title="Kabeldurchführung im Rommelsbacher JG80" /></a>
 
 
-<a href="./res/Joghurtbereiter/JuveleWasserExaktBefuellt.jpg"><img width="600" src="./res/Joghurtbereiter/JuveleWasserExaktBefuellt.jpg" alt="Exakte Befüllung Juvele Pure Plus Joghurtbereiter" title="Exakte Befüllung Juvele Pure Plus Joghurtbereiter" /></a>
+<a href="/res/Joghurtbereiter/JuveleWasserExaktBefuellt.jpg"><img width="600" src="/res/Joghurtbereiter/JuveleWasserExaktBefuellt.jpg" alt="Exakte Befüllung Juvele Pure Plus Joghurtbereiter" title="Exakte Befüllung Juvele Pure Plus Joghurtbereiter" /></a>
 
 
 Der Luvele Pure Plus Joghurtbereiter wurde exakt bis zur Maximumlinie mit Wasser befüllt.
 
-<a href="./res/Joghurtbereiter/RommelsbacherJG80UndLuvelePurePlusVersuchsaufbau.jpg"><img width="600" src="./res/Joghurtbereiter/RommelsbacherJG80UndLuvelePurePlusVersuchsaufbau.jpg" alt="Rommelsbacher JG 80 und Luvele Pure Plus im Test" title="Rommelsbacher JG 80 und Luvele Pure Plus im Test" /></a>
+<a href="/res/Joghurtbereiter/RommelsbacherJG80UndLuvelePurePlusVersuchsaufbau.jpg"><img width="600" src="/res/Joghurtbereiter/RommelsbacherJG80UndLuvelePurePlusVersuchsaufbau.jpg" alt="Rommelsbacher JG 80 und Luvele Pure Plus im Test" title="Rommelsbacher JG 80 und Luvele Pure Plus im Test" /></a>
 
 
 Beim Luvele Pure Plus Joghurtbereiter kann der Temperatursensor durch die beiden Öffnungen im Deckel durchgeführt werden. Durch diese "Verstopfung" der einen Öffnung ergibt sich ein geringfügig kleinerer Energieverbrauch als wenn dieses Loch offen wäre.
@@ -133,7 +133,7 @@ In den Rommelsbacher JG 80 Joghurtbereiter wurde vor dem Einsetzen des Glases de
 ### Testergebnisse Temperaturverhalten Luvele Pure Plus und Rommelsbacher JG 80
 
 
-<a href="./res/Joghurtbereiter/Temperaturverlauf.jpg"><img width="600" src="./res/Joghurtbereiter/Temperaturverlauf.jpg" alt="Temperaturverlauf von Luvele Pure Plus und Rommelsbacher JG80 Joghurtbereiter im Verlauf von 48 Stunden" title="Temperaturverlauf von Luvele Pure Plus und Rommelsbacher JG80 Joghurtbereiter im Verlauf von 48 Stunden" /></a>
+<a href="/res/Joghurtbereiter/Temperaturverlauf.jpg"><img width="600" src="/res/Joghurtbereiter/Temperaturverlauf.jpg" alt="Temperaturverlauf von Luvele Pure Plus und Rommelsbacher JG80 Joghurtbereiter im Verlauf von 48 Stunden" title="Temperaturverlauf von Luvele Pure Plus und Rommelsbacher JG80 Joghurtbereiter im Verlauf von 48 Stunden" /></a>
 
 
 Damit im Test das Wasser in beiden Joghurtmakern dieselbe Temperatur hat, wurde es zuvor über Nacht in einer großen Schüssel gesammelt und auf die beiden Joghurtbereiter verteilt. Gegen 9:30 Uhr wurden beide Joghurtbereiter gleichzeitig eingeschaltet.
@@ -146,11 +146,11 @@ Nach insgesamt ca. 50 Minuten hat der Juvele Pure Plus die Zieltemperatur von 38
 
 Ich habe die Temperatur am Glasrand des Juvele gemessen. Dadurch, dass das Heizelement unter dem Glas angeordnet ist, könnte es an dieser Stelle deutlich heißer werden, was ungünstig für die Mikroorganismen wäre. 
 
-<a href="./res/Joghurtbereiter/BlasenbildungAmHeizelement.jpg"><img width="600" src="./res/Joghurtbereiter/BlasenbildungAmHeizelement.jpg" alt="Blasenbildung am Heizelement des Juvele Pure Plus Joghurtmakers" title="Blasenbildung am Heizelement des Juvele Pure Plus Joghurtmakers" /></a>
+<a href="/res/Joghurtbereiter/BlasenbildungAmHeizelement.jpg"><img width="600" src="/res/Joghurtbereiter/BlasenbildungAmHeizelement.jpg" alt="Blasenbildung am Heizelement des Juvele Pure Plus Joghurtmakers" title="Blasenbildung am Heizelement des Juvele Pure Plus Joghurtmakers" /></a>
 
 Die Blasenbildung am Heizelement des Luvele Pure Plus Joghurtbereiters deuten zumindest auf eine lokale Temperaturerhöhung hin. Gerade weil die Heizleistung mit über 300 Watt so groß ist, stellt sich da ein größerer Temperaturunterschied als beim Rommelsbacher JG 80 mit nur 20 Watt Heizleistung ein.
 
-<a href="./res/Joghurtbereiter/TemperaturfuehlerLuvele.jpg"><img width="600" src="./res/Joghurtbereiter/TemperaturfuehlerLuvele.jpg" alt="Temperatursensor am Luvele Pure Plus Joghurbereiter" title="Temperatursensor am Luvele Pure Plus Joghurbereiter" /></a>
+<a href="/res/Joghurtbereiter/TemperaturfuehlerLuvele.jpg"><img width="600" src="/res/Joghurtbereiter/TemperaturfuehlerLuvele.jpg" alt="Temperatursensor am Luvele Pure Plus Joghurbereiter" title="Temperatursensor am Luvele Pure Plus Joghurbereiter" /></a>
 
 
 Der rot umrandete Punkt dürfte der Temperaturfühler sein. Er sitzt ziemlich am Rand des Joghurtbereiters, während die Heizplatte genau in der Mitte sitzt. Da dauert es etwas bis nach dem Einschalten die Temperatur am Sensor steigt und die Platte wieder ausgeschaltet wird.
@@ -160,14 +160,14 @@ Obwohl beim Rommelsbacher das Programm "Vegan" gewählt wurde und dieses 38 °C 
 Zu den blauen senkrechten Strichen in der Grafik. An diesen Stellen wurde in den Versuchsaufbau eingegriffen. Beim ersten Strich habe ich die Temperatur mit einem Fieberthermometer gemessen bzw. verifiziert. Die Temperaturabweichung zum DS18B20 betrug ca. 0,2 °C und ist damit absolut im Rahmen der Messgenauigkeit. Wie man sieht ist durch diese Messung die Temperatur schneller als sonst gesunken. 
 Die Idee war nun den Rommelsbacher JG 80 in eine Decke zu packen, damit weniger Wärme verlorengeht und damit der Inhalt wärmer bleibt bzw. wird. 
 
-<a href="./res/Joghurtbereiter/RommelsbacherInDecke.jpg"><img width="600" src="./res/Joghurtbereiter/RommelsbacherInDecke.jpg" alt="Rommelsbacher JG 80 Joghurtbereiter in Decke für eine bessere Isolation" title="Rommelsbacher JG 80 Joghurtbereiter in Decke für eine bessere Isolation" /></a>
+<a href="/res/Joghurtbereiter/RommelsbacherInDecke.jpg"><img width="600" src="/res/Joghurtbereiter/RommelsbacherInDecke.jpg" alt="Rommelsbacher JG 80 Joghurtbereiter in Decke für eine bessere Isolation" title="Rommelsbacher JG 80 Joghurtbereiter in Decke für eine bessere Isolation" /></a>
 
 Dieser Versuch durch Einhüllen in eine Decke führte aber zum Gegenteil. Der Inhalt kühlte längere Zeit ab, bevor wieder geheizt wurde und es wurde auch nur bis 36,3 °C geheizt, statt wie bisher zuvor bis 36,6 °C. Ursache dürfte sein, dass der Temperaturfühler beim Rommelsbacher Joghurtmacher im Gehäuse auf der Unterseite angebracht ist. Die Decke hat verhindert, dass Wärme nach außen wegkann, sodass der Temperatursensor wärmer bleibt. Die Raumtemperatur betrug während des Experiments zwischen 22 °C und 23 °C. Es ist gut vorstellbar, dass bei geringerer Raumtemperatur eine geringfügig höhere Endtemperatur erreicht wird.
 
 Beim 2. senkrechten blauen Strich wurde die Decke wieder entfernt.
 Beim 3. Schließlich wurde der Rommelsbacher JG80 auf ein Abtropfgitter gestellt. Die Idee dahinter: Es kommt mehr kühlende Luft von unten an das Gerät und damit könnten die erreichten Temperaturen steigen. Dies hat sich jedoch nicht bestätigt. Es konnte kein signifikanter Unterschied festgestellt werden.
 
-<a href="./res/Joghurtbereiter/RommelsbachAufGitter.jpg"><img width="600" src="./res/Joghurtbereiter/RommelsbachAufGitter.jpg" alt="Rommelsbacher JG 80 Joghurtmacher auf Abtropfgitter" title="Rommelsbacher JG 80 Joghurtmacher auf Abtropfgitter" /></a>
+<a href="/res/Joghurtbereiter/RommelsbachAufGitter.jpg"><img width="600" src="/res/Joghurtbereiter/RommelsbachAufGitter.jpg" alt="Rommelsbacher JG 80 Joghurtmacher auf Abtropfgitter" title="Rommelsbacher JG 80 Joghurtmacher auf Abtropfgitter" /></a>
 
 Zuletzt können die Rohdaten des Versuchs hier heruntergeladen werden
 Datei: RohdatenTemperaturverlauf.csv
@@ -181,19 +181,19 @@ In Sachen Nachhaltigkeit, Stromverbrauch und Umweltschutz ist der Luvele Pure Pl
 
 Bereits in der Thermografie sieht man deutlich, dass der Luvele Pure Plus sehr viel Energie an die Umgebung abgibt:
 
-<a href="./res/Joghurtbereiter/Thermobild.jpg"><img width="600" src="./res/Joghurtbereiter/Thermobild.jpg" alt="Thermografie Luvele Pure Plus und Rommelsbacher JG 80" title="Thermografie Luvele Pure Plus und Rommelsbacher JG 80" /></a>
+<a href="/res/Joghurtbereiter/Thermobild.jpg"><img width="600" src="/res/Joghurtbereiter/Thermobild.jpg" alt="Thermografie Luvele Pure Plus und Rommelsbacher JG 80" title="Thermografie Luvele Pure Plus und Rommelsbacher JG 80" /></a>
 
 Der rote Fleck vorne beim Rommelsbacher JG 80 ist das Display. Der rote Fleck hingegen an der linken Gehäuseseite dürfte durch die abgestrahlte Wärme des Luvele Pure Plus zurückzuführen sein.
 
 Lassen wir nun die Zahlen sprechen:
 
-<a href="./res/Joghurtbereiter/LuveleGesamtverbrauch.jpg"><img width="600" src="./res/Joghurtbereiter/LuveleGesamtverbrauch.jpg" alt="Verschwenderische 0,454 kWh Verbrauch beim Luvele Pure Plus Joghurtbereiter" title="Verschwenderische 0,454 kWh Verbrauch beim Luvele Pure Plus Joghurtbereiter" /></a>
+<a href="/res/Joghurtbereiter/LuveleGesamtverbrauch.jpg"><img width="600" src="/res/Joghurtbereiter/LuveleGesamtverbrauch.jpg" alt="Verschwenderische 0,454 kWh Verbrauch beim Luvele Pure Plus Joghurtbereiter" title="Verschwenderische 0,454 kWh Verbrauch beim Luvele Pure Plus Joghurtbereiter" /></a>
 
 Für die Dauer von 36 Stunden in denen der Lactobacillus reuteri Joghurt fermentiert wurde, sind wahnsinnig verschwenderische 0,454 kWh verbraucht worden. Das entspricht einem Durchschnittsverbrauch von 12,6 Watt. Wenn man den Luvele Pure Plus Joghurtbereiter in eine Decke hüllt und darüber eine Kühltasche umgekehrt stülpt, sowie eine Decke über die Kühltasche legt, dann braucht der Luvele Pure Plus Joghurtbereiter in 24 Stunden ohne Aufheizphase nur noch 0,113 kWh, also durchschnittlich 4,7 Watt. Wenn man laut Aussage Juveles den „perfekten Joghurtbereiter“ produzieren möchte, dann sollte man sein Gerät auch ordentlich isolieren und an die Umwelt denken.
 
 Das Joghurtmachen auch viel energiesparender sein kann, zeigt der Rommelsbacher JG 80. Hier stehen nach 36stündiger Lactobacillus reuteri Joghurt Fermentation nur 0,15 kWh (durchschnittlich also nur 4 Watt) und damit braucht der Luvele Pure Plus Joghurtbereiter mehr als dreimal soviel Energie wie der Rommelsbacher JG80 Joghurtbereiter.
 
-<a href="./res/Joghurtbereiter/RommelsbacherVerbrauch.jpg"><img width="600" src="./res/Joghurtbereiter/RommelsbacherVerbrauch.jpg" alt="0,15 kWh Verbrauch beim Rommelsbacher JG 80 Joghurtbereiter für die 36stündige Lactobacillus Reuteri Fermentation" title="0,15 kWh Verbrauch beim Rommelsbacher JG 80 Joghurtbereiter für die 36stündige Lactobacillus Reuteri Fermentation" /></a>
+<a href="/res/Joghurtbereiter/RommelsbacherVerbrauch.jpg"><img width="600" src="/res/Joghurtbereiter/RommelsbacherVerbrauch.jpg" alt="0,15 kWh Verbrauch beim Rommelsbacher JG 80 Joghurtbereiter für die 36stündige Lactobacillus Reuteri Fermentation" title="0,15 kWh Verbrauch beim Rommelsbacher JG 80 Joghurtbereiter für die 36stündige Lactobacillus Reuteri Fermentation" /></a>
 
 Selbst wenn man es ins Verhältnis setzt, dass der Luvele Pure Plus knapp 2 Liter Joghurt auf einmal herstellen kann, bleibt immer noch ein 50-60%iger Mehrverbrauch beim Luvele Pure Plus Joghurtbereiter. Da man volle 2 Liter Milch aber nicht nutzen kann und auch noch einiges an Wasser im Joghurtbereiter selbst benötigt, ist der Luvele Pure Plus Joghurtbereiter alles andere als nachhaltig und umweltfreundlich. Wenn man sich dem Klima gegenüber verantwortlich zeigt, sollte man dieses Produkt auf gar keinen fall kaufen. 
 
