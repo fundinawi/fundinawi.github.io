@@ -25,3 +25,6 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 
 navigation_pages:
  - ueber.md
+
+header_pages:
+  - ueber.md
