@@ -107,7 +107,7 @@ Die [Rohdaten des Joghurtbereiter Tests können hier als CSV heruntergeladen wer
 
 Bilder des Versuchsaufbaus:
 
-<a href="Bild: DS18B20ImLuvele.jpg"><img width="600" src="Bild: DS18B20ImLuvele.jpg" alt="DS18B20 Sensor im Luvele Pure Plus Joghurtbereite" title="DS18B20 Sensor im Luvele Pure Plus Joghurtbereite" /></a>
+<a href="/res/Joghurtbereiter/DS18B20ImLuvele.jpg"><img width="600" src="/res/Joghurtbereiter/DS18B20ImLuvele.jpg" alt="DS18B20 Sensor im Luvele Pure Plus Joghurtbereiter" title="DS18B20 Sensor im Luvele Pure Plus Joghurtbereiter" /></a>
 
 
 <a href="/res/Joghurtbereiter/DS18B20ImRommelsbacher.jpg"><img width="600" src="/res/Joghurtbereiter/DS18B20ImRommelsbacher.jpg" alt="DS18B20 Sensor im Rommelsbacher JG 80 Joghurtbereiter" title="DS18B20 Sensor im Rommelsbacher JG 80 Joghurtbereiter" /></a>
@@ -167,10 +167,9 @@ Dieser Versuch durch Einhüllen in eine Decke führte aber zum Gegenteil. Der In
 Beim 2. senkrechten blauen Strich wurde die Decke wieder entfernt.
 Beim 3. Schließlich wurde der Rommelsbacher JG80 auf ein Abtropfgitter gestellt. Die Idee dahinter: Es kommt mehr kühlende Luft von unten an das Gerät und damit könnten die erreichten Temperaturen steigen. Dies hat sich jedoch nicht bestätigt. Es konnte kein signifikanter Unterschied festgestellt werden.
 
-<a href="/res/Joghurtbereiter/RommelsbachAufGitter.jpg"><img width="600" src="/res/Joghurtbereiter/RommelsbachAufGitter.jpg" alt="Rommelsbacher JG 80 Joghurtmacher auf Abtropfgitter" title="Rommelsbacher JG 80 Joghurtmacher auf Abtropfgitter" /></a>
+<a href="/res/Joghurtbereiter/RommelsbacherAufGitter.jpg"><img width="600" src="/res/Joghurtbereiter/RommelsbacherAufGitter.jpg" alt="Rommelsbacher JG 80 Joghurtmacher auf Abtropfgitter" title="Rommelsbacher JG 80 Joghurtmacher auf Abtropfgitter" /></a>
 
-Zuletzt können die Rohdaten des Versuchs hier heruntergeladen werden
-Datei: RohdatenTemperaturverlauf.csv
+Zuletzt können die Rohdaten des Versuchs hier heruntergeladen werden [Rohdaten des Joghurtbereiter Tests]( res/Joghurtbereiter/RohdatenTemperaturverlauf.csv).
 
 
 ### Umwelt, Verbrauch und Nachhaltigkeit 
