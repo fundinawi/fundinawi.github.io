@@ -1,8 +1,7 @@
 ---
-title: "Comparison / Test / Review of yogurt maker Luvele Pure Plus and Rommelsbacher JG 80".
+title: "Comparison / Test / Review of yogurt maker Luvele Pure Plus and Rommelsbacher JG 80"
 date: 2021-08-06
 ---
-
 
 # Comparison / test / review of the yogurt maker Luvele Pure Plus and Rommelsbacher JG 80
 
