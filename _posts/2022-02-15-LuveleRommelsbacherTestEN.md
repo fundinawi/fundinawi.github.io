@@ -1,11 +1,11 @@
 ---
 title: "Comparison / Test / Review of yogurt maker Luvele Pure Plus and Rommelsbacher JG 80"
-date: 2021-08-06
+date: 2022-02-15
 ---
 
 # Comparison / test / review of the yogurt maker Luvele Pure Plus and Rommelsbacher JG 80
 
-This is the automated translated version of original post https://fundinawi.github.io/2021/08/06/LuveleRommelsbacherTest.html
+This is the automated translated version of [original post](https://fundinawi.github.io/2021/08/06/LuveleRommelsbacherTest.html).
 Feel free to improve the translation.
 
 It is very difficult to find a real comparison or test of yogurt makers. [Haus und Garten Test has tested yogurt makers](https://www.haus-garten-test.de/test/testskueche/joghurtmaker-test-2020-4/) and also mentioned in its article that it is more sustainable because of less packaging waste to produce its own yogurt. How much electricity the individual devices need to produce 1 kg of yogurt, however, was not tested. This is also an important issue in terms of sustainability. The power consumption of the devices was indicated, but this says nothing at all about the total power consumption. Also, the shelf life of the homemade yogurt is given as very short at 10 days. If you really throw it away after that, it's not very sustainable either. The yogurt from the supermarket quickly reaches 10 days since production until it lands on the plate of the customer.
