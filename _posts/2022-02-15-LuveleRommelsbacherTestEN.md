@@ -6,6 +6,7 @@ date: 2021-08-06
 # Comparison / test / review of the yogurt maker Luvele Pure Plus and Rommelsbacher JG 80
 
 This is the automated translated version of original post https://fundinawi.github.io/2021/08/06/LuveleRommelsbacherTest.html
+Feel free to improve the translation.
 
 It is very difficult to find a real comparison or test of yogurt makers. [Haus und Garten Test has tested yogurt makers](https://www.haus-garten-test.de/test/testskueche/joghurtmaker-test-2020-4/) and also mentioned in its article that it is more sustainable because of less packaging waste to produce its own yogurt. How much electricity the individual devices need to produce 1 kg of yogurt, however, was not tested. This is also an important issue in terms of sustainability. The power consumption of the devices was indicated, but this says nothing at all about the total power consumption. Also, the shelf life of the homemade yogurt is given as very short at 10 days. If you really throw it away after that, it's not very sustainable either. The yogurt from the supermarket quickly reaches 10 days since production until it lands on the plate of the customer.
 
@@ -141,11 +142,9 @@ The remedy here is to put the milk in the glass first, microwave it for about 90
 
 After a total of approx. 50 minutes the Juvele Pure Plus has reached the target temperature of 38 °C. A total of approx. 90 minutes later, the final temperature of 38.6 °C to 38.7 °C is reached. It is maintained fairly accurately, fluctuating only by about 0.1 °C.
 
-<a href="/res/Joghurtbereiter/BlasenbildungAmHeizelement.jpg"><img width="600" src="/res/Joghurtbereiter/BlasenbildungAmHeizelement.jpg" alt="Bubble formation on the heating element of the Juvele Pure Plus yogurt maker" title="Bubble formation on the heating element of the Juvele Pure Plus yogurt maker" /></a>
-
 I measured the temperature at the edge of the glass of the Juvele. Because the heating element is located under the glass, it could become significantly hotter at this point, which would be unfavorable for the microorganisms. 
 
-Bubble formation on the heating element of the Juvele Pure Plus yogurt maker
+<a href="/res/Joghurtbereiter/BlasenbildungAmHeizelement.jpg"><img width="600" src="/res/Joghurtbereiter/BlasenbildungAmHeizelement.jpg" alt="Bubble formation on the heating element of the Juvele Pure Plus yogurt maker" title="Bubble formation on the heating element of the Juvele Pure Plus yogurt maker" /></a>
 
 The bubble formation on the heating element of the Luvele Pure Plus yogurt maker indicates at least a local temperature increase. Especially because the heating power of over 300 watts is so high, there is a larger temperature difference than in the Rommelsbacher JG 80 with only 20 watts of heating power.
 
@@ -199,4 +198,4 @@ Even if you put it into perspective that the Luvele Pure Plus can make just unde
 ## Conclusion and test result Luvele Pure Plus and Rommelsbacher JG 80 Yogurt Maker
 The Luvele Pure Plus yogurt maker is about twice as expensive as the Rommelsbacher yogurt maker with two jars. The device is not well thought out, as you cannot make yogurt from a full 2 liters of milk due to a jar that is too small. The power consumption is about 60% higher than the Rommelsbacher JG80. Due to the filling of water, one has an increased cleaning effort. Due to the much larger device, much more space is taken away in the kitchen. The only plus point is the faster heat-up, as well as the lower temperature fluctuation. However, it is very questionable whether this is advantageous for fermentation, since the bacteria grow happily in a wide temperature range.
 
-
+Verdict: The Rommelsbacher JG 80 wins this test hands down. It is comparatively inexpensive, comes with a lot of accessories and is also much more environmentally friendly than the Juvele Pure Plus yogurt maker.
