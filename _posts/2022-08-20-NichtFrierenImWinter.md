@@ -67,11 +67,11 @@ Digitale Heizkörperthermostate hingegen regeln viel genauer und reagieren auch 
 
 Analoges Heizkörperthermostat:
 
-<a href="./res/NichtFrieren/AnalogesThermostat.jpg"><img width="600" src="./res/NichtFrieren/AnalogesThermostat.jpg" alt="Analoges Heizkörperthermostat Temperaturschwankung von 1,8K" title="Analoges Heizkörperthermostat Temperaturschwankung von 1,8K " /></a>
+<a href="/res/NichtFrieren/AnalogesThermostat.jpg"><img width="600" src="/res/NichtFrieren/AnalogesThermostat.jpg" alt="Analoges Heizkörperthermostat Temperaturschwankung von 1,8K" title="Analoges Heizkörperthermostat Temperaturschwankung von 1,8K" /></a>
 
 Digitales Heizkörperthermostat:
 
-<a href="./res/NichtFrieren/DigitalesThermostat.jpg"><img width="600" src="./res/NichtFrieren/DigitalesThermostat.jpg" alt="Digitales Heizkörperthermostat Temperaturschwankung von nur 0,3K" title="Digitales Heizkörperthermostat Temperaturschwankung von nur 0,3K" /></a>
+<a href="/res/NichtFrieren/DigitalesThermostat.jpg"><img width="600" src="/res/NichtFrieren/DigitalesThermostat.jpg" alt="Digitales Heizkörperthermostat Temperaturschwankung von nur 0,3K" title="Digitales Heizkörperthermostat Temperaturschwankung von nur 0,3K" /></a>
 
 ## Deutlich bessere Alternativen zum Energiesparen anstatt Temperaturbegrenzung auf 19 °C
 
