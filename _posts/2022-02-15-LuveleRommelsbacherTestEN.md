@@ -106,7 +106,7 @@ For the experiment, exactly 1 kg of water was filled into both vessels. The same
 The DS18B20 sensors were placed in a drip blumat tube that was sealed watertight on one side so that they remained dry. To do this, the tubing was heated with a lighter until it was very soft and then squeezed tightly with a pair of pliers.
 Data from the DS18B20 sensors were then recorded to an influx database with 2 decimal places of accuracy every 10 seconds.
 
-The [raw data from the yogurt maker test can be downloaded as a CSV here]( res/Joghurtbereiter/RohdatenTemperaturverlauf.csv).
+The [raw data from the yogurt maker test can be downloaded as a CSV here](../../../res/Joghurtbereiter/RohdatenTemperaturverlauf.csv).
 
 Images of the experimental setup
 
