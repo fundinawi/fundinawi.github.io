@@ -103,7 +103,7 @@ Für den Versuch wurden in beide Gefäße exakt 1 kg Wasser gefüllt. Die gleich
 Die DS18B20 Sensoren wurden in einen einseitig wasserdicht verschlossenen Tropfblumat Schlauch gesteckt, sodass diese trocken bleiben. Dazu wurde der Schlauch mit einem Feuerzeug erwärmt, bis er sehr weich war und danach mit einer Zange fest zusammengepresst.
 Die Daten der DS18B20 Sensoren wurden dann mit 2 Nachkommastellen Genauigkeit alle 10 Sekunden in einer influx Datenbank aufgezeichnet.
 
-Die [Rohdaten des Joghurtbereiter Tests können hier als CSV heruntergeladen werden]( res/Joghurtbereiter/RohdatenTemperaturverlauf.csv).
+Die [Rohdaten des Joghurtbereiter Tests können hier als CSV heruntergeladen werden](../../../res/Joghurtbereiter/RohdatenTemperaturverlauf.csv).
 
 Bilder des Versuchsaufbaus:
 
